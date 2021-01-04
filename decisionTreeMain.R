@@ -194,4 +194,3 @@ val_preds[n]
 
   #checking variables of importance
 varImp(model)
-
